@@ -15,7 +15,7 @@ url = "/blog"
 
 [[params.headerLinks]]
 title = "Games I Completed"
-url = "/gamess"
+url = "/games"
 
 [[params.headerLinks]]
 title = "Github"
