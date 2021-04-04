@@ -1,0 +1,66 @@
+---
+title: "Why this site sucks"
+description: "How is this website different from all other websites?"
+date: 2021-04-04T17:38:36+02:00
+draft: false
+tags: ["prova", "due"]
+---
+
+"Zekromaster, why does this website suck" you tell me.
+
+"Why aren't you using all the thingamajigs and the funny doodads that modern 
+web development gives us?"
+
+And I hear you alright. We have modern CSS, and TypeScript building to 
+JavaScript, and complex rube-goldberg machines that make writing an 
+"Hello, World" something like this
+
+```python
+    import library;
+    import another_library;
+    import database;
+
+    database.connect(library.getAWSLambda("watchamacallit"))
+
+    world = database.get("SELECT WORLD FROM WORLDS WHERE USER='ME'")
+
+    world.push(another_library.deploy_anti_bobby_table_measures(0))
+
+    world.callPrintfAsAService("Hello, %s")
+```
+Yet, as you may have noticed from the syntax highlighting above, I'm actually
+using something developed after the Ides of March for my website.
+
+This website is made with Hugo, using a theme I made myself called Plain 
+(available https://github.com/Zekromaster/HugoTheme-Plain[here]).
+
+You see, I had a personal website multiple times in my life. It started as a
+Wordpress blog, made in one night and where I posted movie and videogame 
+reviews. Then I started doing webdev, and the website became an horrible beast
+made by an high school student with too much time on their hands who built his
+own horrible CMS in Javascript running entirely on a directory full of `.json`
+files.
+
+Sometime around my second year of university (I do study Software Engineering) I
+realized I needed to simplify my website, and moved to Hugo. This didn't last 
+long, though it lead me to developing another Hugo theme, 
+https://github.com/Zekromaster/HugoTheme-BackToThe90s[Back to the 90s].
+
+I later went back to using the "coolest" things around to make my website, and 
+started making something with Strapi and Angular. I have been websiteless for
+months now, waiting to make the "perfect Angular frontend for my personal API".
+
+And then, it hit me, right in the stomach. _Why am I doing all this?_. I 
+literally only want to host a personal blog, and a list of games I want to brag
+about completing 100%.
+
+I threw away all the fancy CSS, and the animations, and the GUI work I did. I
+don't _need_ all that, I need to display content, and you know what's made to 
+display content? Static HTML. Static, minimal, almost-css-less HTML. And it 
+comes with the plus of being free on DigitalOcean.
+
+Now, that isn't to say I'm not gonna use anything "too fancy" on my website. I
+already have plans to add some "progressive enhancement" features, first of all
+a searchbar - but fancy features are _not_ the focus of this website. The focus 
+of this website is being a personal blog. And it's working well as a personal 
+blog as it is.

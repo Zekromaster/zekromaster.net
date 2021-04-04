@@ -1,0 +1,11 @@
+My name is Luca Cristiano, known online as Zekromaster (and as Zekromaster42 in
+places where someone else is already known as Zekromaster).
+
+I'm an italian developer, Free Software activist, and university student in 
+Software Engineering.
+
+This is the fifth time I build my own personal website, hoping it's also the 
+last.
+
+For why this website looks like it came straight from Tim Berners Lee's IBM 
+Terminal: link:blog/why_this_site_sucks[see here].

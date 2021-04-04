@@ -1,0 +1,25 @@
+baseURL = "https://zekromaster.net/"
+languageCode = "en-us"
+title = "Zekromaster.net"
+theme = "plain"
+
+pygmentsUseClasses = true
+pygmentsCodefences = true
+
+[params]
+subtitle = "As long as it builds."
+
+[[params.headerLinks]]
+title = "Blog"
+url = "/blog"
+
+[[params.headerLinks]]
+title = "Github"
+url = "https://github.com/Zekromaster"
+
+[markup]
+    [markup.asciidocExt]
+        [markup.asciidocExt.attributes]
+            source-highlighter="rouge"
+            rouge-css="style"
+            rouge-style="magritte"
