@@ -1,4 +1,4 @@
 [submodule "themes/plain"]
 	path = src/hugo/themes/plain
-	url = git@github.com:Zekromaster/HugoTheme-Plain
+	url = https://github.com/Zekromaster/HugoTheme-Plain
 	branch = main
