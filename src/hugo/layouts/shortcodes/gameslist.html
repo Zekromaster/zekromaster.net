@@ -1,0 +1,3 @@
+{{ range $.Site.Data.games.data }}
+  | {{ .name }} | {{ .console }} | {{ .completion }} | {{ (print "/games/proof/" .proof) | absURL }}[HERE,window=_blank]
+{{ end }}

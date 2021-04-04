@@ -14,6 +14,10 @@ title = "Blog"
 url = "/blog"
 
 [[params.headerLinks]]
+title = "Games I Completed"
+url = "/gamess"
+
+[[params.headerLinks]]
 title = "Github"
 url = "https://github.com/Zekromaster"
 

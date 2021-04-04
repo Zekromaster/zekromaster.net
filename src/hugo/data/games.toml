@@ -1,0 +1,16 @@
+data = [
+  {name = "Crash Bandicoot 1", console = "PSX", completion = "100%", proof = "cb1.png", startDate = "2018-09-16", endDate = "2018-09-26"},
+  {name = "Crash Bandicoot 3", console = "PSX", completion = "105%", proof = "cb3.png", startDate = "2017-08-13", endDate = "2017-08-25"},
+  {name = "Crash Bandicoot N.Sane Trilogy - Crash Bandicoot", console = "PC", completion = "105%", proof = "nst1.png", startDate = "2019-10-12", endDate = "2020-08-12"},
+  {name = "Crash Bandicoot N.Sane Trilogy - Crash Bandicoot 2: Cortex Strikes Back", console = "PC", completion = "102%", proof = "nst2.png", startDate = "2020-09-20", endDate = "2020-12-09"},
+  {name = "Crash Bandicoot N.Sane Trilogy - Crash Bandicoot 3: Warped", console = "PC", completion = "108%", proof = "nst3.png", startDate = "2020-12-24", endDate = "2020-12-27"},
+  {name = "Crash Nitro Kart", console = "PS2", completion = "101%", proof = "cnk.png", startDate = "2021-02-11", endDate = "2021-02-24"},
+  {name = "Crash Team Racing", console = "PSX", completion = "101%", proof = "ctr.png", startDate = "2017-12-30", endDate = "2017-12-30"},
+  {name = "Crash Twinsanity", console = "PS2", completion = "100%", proof = "ctw.png", startDate = "2017-12-11", endDate = "2017-12-24"},
+  {name = "Disney•Pixar Cars", console = "PC", completion = "250 Trophies", proof = "cars.png", startDate = "2020-12-27", endDate = "2021-01-01"},
+  {name = "Jak and Daxter: The Precursor Legacy", console = "PS2", completion = "100%", proof = "jnd.png", startDate = "2019-02-07", endDate = "2019-04-04"},
+  {name = "Kao the Kangaroo: Round 2", console = "PC", completion = "All Collectibles", proof = "kao2.mp4", startDate = "2021-01-18", endDate = "2021-01-23"},
+  {name = "Ratatouille", console = "PC", completion = "100%", proof = "ratatouille.png", startDate = "2020-12-09", endDate = "2020-12-24"},
+  {name = "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated", console = "PC", completion = "100 Spatulas", proof = "bfbbr.png", startDate = "2021-01-01", endDate = "2021-01-18"},
+  {name = "Spyro: Reignited Trilogy - Spyro 1", console = "PC", completion = "120%", proof = "spyror1.png", startDate = "2021-02-25", endDate = "2021-03-04"}
+]
