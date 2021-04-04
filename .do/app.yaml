@@ -1,0 +1,19 @@
+name: personal-website
+region: fra
+
+domains:
+- domain: zekromaster.net
+  type: PRIMARY
+
+static_sites:
+- name: personal-website
+  routes:
+  - path: /
+
+  dockerfile_path: src/container/do-app-builder.dockerfile
+  output_dir: /mnt/projectRoot/build/hugo
+
+  github:
+    repo: zekromaster/zekromaster.net
+    branch: main
+    deploy_on_push: true
