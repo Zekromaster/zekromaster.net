@@ -14,6 +14,6 @@ static_sites:
   output_dir: /mnt/projectRoot/build/hugo
 
   github:
-    repo: zekromaster/zekromaster.net
+    repo: Zekromaster/zekromaster.net
     branch: main
     deploy_on_push: true
