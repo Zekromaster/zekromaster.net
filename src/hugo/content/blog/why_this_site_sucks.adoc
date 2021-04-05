@@ -31,8 +31,8 @@ JavaScript, and complex rube-goldberg machines that make writing an
 Yet, as you may have noticed from the syntax highlighting above, I'm actually
 using something developed after the Ides of March for my website.
 
-This website is made with Hugo, using a theme I made myself called Plain 
-(available https://github.com/Zekromaster/HugoTheme-Plain[here]).
+This website is made with Hugo, using 
+https://github.com/Zekromaster/HugoTheme-Plain[a theme I made myself called Plain]
 
 You see, I had a personal website multiple times in my life. It started as a
 Wordpress blog, made in one night and where I posted movie and videogame 
