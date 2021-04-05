@@ -1,4 +1,4 @@
-baseURL = "https://zekromaster.net/"
+baseURL = "https://zekromaster.net"
 languageCode = "en-us"
 title = "Zekromaster.net"
 theme = "plain"
@@ -8,6 +8,7 @@ pygmentsCodefences = true
 
 [params]
 subtitle = "As long as it builds."
+description = "Luca Cristiano's personal website, acting as a devblog and an hobby site."
 
 [[params.headerLinks]]
 title = "Blog"
