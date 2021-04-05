@@ -7,20 +7,20 @@ pygmentsUseClasses = true
 pygmentsCodefences = true
 
 [params]
-subtitle = "As long as it builds."
-description = "Luca Cristiano's personal website, acting as a devblog and an hobby site."
+    subtitle = "As long as it builds."
+    description = "Luca Cristiano's personal website, acting as a devblog and an hobby site."
 
 [[params.headerLinks]]
-title = "Blog"
-url = "/blog"
+    title = "Blog"
+    url = "/blog"
 
 [[params.headerLinks]]
-title = "Games I Completed"
-url = "/games"
+    title = "Games I Completed"
+    url = "/games"
 
 [[params.headerLinks]]
-title = "Github"
-url = "https://github.com/Zekromaster"
+    title = "Github"
+    url = "https://github.com/Zekromaster"
 
 [markup]
     [markup.asciidocExt]
