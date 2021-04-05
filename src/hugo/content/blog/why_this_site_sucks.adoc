@@ -20,13 +20,28 @@ JavaScript, and complex rube-goldberg machines that make writing an
     import another_library;
     import database;
 
-    database.connect(library.getAWSLambda("watchamacallit"))
+    database.connect(
+        library.getAWSLambda("watchamacallit")
+    )
 
-    world = database.get("SELECT WORLD FROM WORLDS WHERE USER='ME'")
+    world = database.get(
+        """
+            SELECT WORLD
+            FROM WORLDS
+            WHERE USER='ME'
+        """
+    )
 
-    world.push(another_library.deploy_anti_bobby_table_measures(0))
+    world.push(
+        another_library
+        .deploy_anti_bobby_table_measures(
+            0
+        )
+    )
 
-    world.callPrintfAsAService("Hello, %s")
+    world.callPrintfAsAService(
+        "Hello, %s"
+    )
 ```
 Yet, as you may have noticed from the syntax highlighting above, I'm actually
 using something developed after the Ides of March for my website.
