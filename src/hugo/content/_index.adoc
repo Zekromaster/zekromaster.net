@@ -9,3 +9,8 @@ last.
 
 For why this website looks like it came straight from Tim Berners Lee's IBM 
 Terminal: link:blog/why_this_site_sucks[see here].
+
+This blog's main focus is the hobby side of my life - Videogames, Tabletop RPGs, a probably unhealthy dose of software
+engineering. I may consider making it tag-browseable in the future, for the sake of those poor employers who'd
+otheriwise have to sift through my D&D ramblings to find out why I considered this site relevant enough to my 
+professional life to put it on my resume, and for those who just want to read about a specific topic.

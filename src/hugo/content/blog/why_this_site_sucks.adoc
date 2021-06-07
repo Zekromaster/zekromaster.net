@@ -3,7 +3,7 @@ title: "Why this site sucks"
 description: "How is this website different from all other websites?"
 date: 2021-04-04T17:38:36+02:00
 draft: false
-tags: ["personal", "web-development"]
+tags: ["software-development", "web-development"]
 ---
 
 "Zekromaster, why does this website suck" you tell me.
