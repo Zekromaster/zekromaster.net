@@ -8,6 +8,7 @@ data = [
   {name = "Crash Team Racing", console = "PSX", completion = "101%", proof = "ctr.png", startDate = "2017-12-30", endDate = "2017-12-30"},
   {name = "Crash Twinsanity", console = "PS2", completion = "100%", proof = "ctw.png", startDate = "2017-12-11", endDate = "2017-12-24"},
   {name = "Disney•Pixar Cars", console = "PC", completion = "250 Trophies", proof = "cars.png", startDate = "2020-12-27", endDate = "2021-01-01"},
+  {name = "Donald Duck: Quack Attack?!", console = "PSX", completion = "112%", proof = "ddgq.png", startDate = "2021-10-25", endDate = "2021-10-27"},
   {name = "Jak and Daxter: The Precursor Legacy", console = "PS2", completion = "100%", proof = "jnd.png", startDate = "2019-02-07", endDate = "2019-04-04"},
   {name = "Kao the Kangaroo: Round 2", console = "PC", completion = "All Collectibles", proof = "kao2.mp4", startDate = "2021-01-18", endDate = "2021-01-23"},
   {name = "Ratatouille", console = "PC", completion = "100%", proof = "ratatouille.png", startDate = "2020-12-09", endDate = "2020-12-24"},
