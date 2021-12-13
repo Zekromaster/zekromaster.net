@@ -1,0 +1,113 @@
+---
+title: "Why D&D 5th Edition doesn't work for every setting Part I: Zendikar"
+description: "Or 'a rant turned essay on the dangers of D&D as a universal roleplaying system and how I beg you to please play another RPG'"
+date: 2021-12-13T10:10:00+02:00
+draft: false
+tags: ["roleplaying-games", "dungeons-and-dragons", "magic-the-gathering",
+"why-dnd-5e-does-not-work-for-every-setting"]
+---
+In the beginning, I intended to write a very short rant for a Facebook group I'm
+in. Then, I realized I have a LOT to say about this, and thus launched VSCode as
+this turned into the first post of what I plan to be a series about how D&D can't
+model every single setting.
+
+In each post, I'll give a brief comment on a specific setting adapted or published
+for D&D. All of them can give us unique insights into how D&D fails at delivering
+certain experiences or succeeds at delivering others, and how the universalizing
+approach of D&D 5e actually reduced the game’s ability to deliver on what used to
+be its core premises.
+
+At the end of each comment, I’ll briefly explain, in my opinion, what this means
+for D&D 5e in relation to the setting and what other systems would do a good or
+better job at modeling the narratives the setting is focused on. For the sake of
+getting people to actually try out those systems, I'll link to official pages and
+try to go with more widely-known and supported systems that can model large amounts of
+the setting's intended experience instead of smaller specific ones, unless I feel
+a system fits too well to not mention.
+
+Without further ado, I'll start this series off with Magic: The Gathering's Zendikar.
+'''
+
+The worst thing to come out of WotC owning both the biggest Trading Card Game on
+the market and the biggest Tabletop RPG on the shelves is the fact that in an effort
+at cross promoting, there now is a bunch of official D&D sourcebooks adapting settings
+from Magic the Gathering that have nothing to do with D&D and that would be best
+served by other systems, in the form of "Plane Shift", a bunch of supplements each
+focusing on a different Magic the Gathering plane.
+
+== What's wrong with Plane Shift itself?
+
+Let’s start from the fact that these are NOT, and I repeat, NOT meant to be a way
+to fulfill the fantasy at the basis of MtG itself – you’re NOT meant to play a Planeswalker
+through these supplements. They are supplements to play a campaign or short adventure
+on MtG planes without any interference from the main MtG plot and no signs of what
+makes Magic the Gathering what it is.
+
+On the mechanics side, not even basic hacks that have been commonplace in the “Playing
+MtG in D&D” homebrew scene like using colour as alignment are introduced, presumably
+to guarantee compatibility with everything else WotC publishes, as if people buying
+a book should mean they get to use all of its content at every occasion without
+selection for mechanical or thematic reasons.
+
+I'll avoid talking at length about the fact that the Vancian magic system makes
+no sense for MtG, for we already established that these supplements are meant to
+play characters from the plane itself and not planeswalkers, and I also don’t believe
+mechanics necessarily need to ever perfectly simulate what happens in the fiction.
+
+== What's wrong with https://media.wizards.com/2016/downloads/magic/Plane%20Shift%20Zendikar.pdf[Plane Shift: Zendikar]?
+
+This one is interesting. First of all, Zendikar was pitched as the “Adventure Plane”
+back in the days of the first Zendikar block, and was meant to be inspired exactly
+by the kind of fantasy experience that D&D (and other “Dungeon Fantasy” RPGs) delivered
+at the time. The kick was, obviously, the introduction of Cosmic Horror elements
+in the form of the reawakening of the lovecraftian creatures known as the Eldrazi
+and the ensuing battle against them led by powerful planeswalkers.
+
+So, what’s wrong with this one? In principle, nothing. This looks like exactly the
+kind of story you’d want to tell with D&D, a world of adventure filled with terrible
+monsters and unknowable enemies. Except… it’s not.
+
+You see, according to 5e’s own core rulebook, the game relies on three pillars:
+combat, social interaction, and exploration. It covers combat extensively, and social
+interaction can be easily reduced to freeform improvisation with occasional usage
+of the Skill system, but exploration has zero mechanical support. There’s no mechanics
+relating to discovery, no mechanical incentives to discover stuff. In a sense, if
+you’re looking for a game based around exploration with occasional combat and not
+much formalized social interaction, you’re almost better off playing with no “system”
+at all and resolving conflicts with compared d6 rolls. And, guess what, Zendikar
+is a setting meant for exploration with occasional combat and not much formalized
+social interaction.
+
+In a sense, this is actually one of those situations where 5e streamlined the core
+experience out of itself. In a ploy to simplify rules and remove formalized procedures
+to make the game easier to grok, they ended up creating a system that relies very
+much on rules and game structures to deliver its core experience, but also has no
+way to model what it claims is a core part of the experience through those same
+rules.There’s effectively no difference between using 5e or any other non-exploration-focused system to play a Zendikar campaign.
+
+=== Does this make D&D 5e completely useless for playing Zendikar campaigns?
+No, it doesn’t. At least, not necessarily.
+
+You can play campaigns that revolve around fighting the Eldrazi, or focused on the
+more combat side by doing invidual, mapped-out dungeon crawls. But the core premise
+of Zendikar is NOT “uberpowerful denizens of the plane defeating the Eldrazi”, it's
+“Exploring strange landscapes and discovering artifacts and technology, while avoiding
+the dangers of both the environment and the Eldrazi”, and at this, D&D fails spectacularly, by virtue of being a “proactive” system where the main narrative revolves around “punching” any and all problems that may arise.
+
+=== What systems would’ve actually delivered the experience Zendikar goes for?
+The first to come to one's mind is Monte Cook Games'
+https://cypher-system.com/what-is-the-cypher-system/[Cypher System]: it has a mechanical
+focus on discovery and exploration, and its flagship product, Numenera, revolves
+exactly around “Exploring strange landscapes and discovering artifacts and technology,
+while avoiding the dangers of the environment” – but it’s clearly not the only 
+valid option. https://dungeon-world.com/[Dungeon World], with its "Play to find
+out what happens" approach, the narrative-focused mechanics typical of PbtA, and its low-prep,
+high-improvisation mindset, is also a good candidate for modeling the world of discovery
+and exploration of Zendikar while still remaining attached to the "Dungeon Fantasy"
+aesthetics and narratives Zendikar itself is inspired from.
+
+For campaigns that want to focus more on the "dungeoneering in a deadly world",
+it seems weird to not opt for an OSR game like
+https://www.froggodgames.com/product/swords-wizardry-complete-rulebook[Swords and Wizardry],
+or even just older editions of D&D that are meant to focus on exploration and dungeon
+crawling.
