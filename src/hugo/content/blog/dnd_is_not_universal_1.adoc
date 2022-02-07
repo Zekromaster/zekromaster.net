@@ -26,6 +26,7 @@ the setting's intended experience instead of smaller specific ones, unless I fee
 a system fits too well to not mention.
 
 Without further ado, I'll start this series off with Magic: The Gathering's Zendikar.
+
 '''
 
 The worst thing to come out of WotC owning both the biggest Trading Card Game on
@@ -97,7 +98,7 @@ the dangers of both the environment and the Eldrazi”, and at this, D&D fails s
 === What systems would’ve actually delivered the experience Zendikar goes for?
 The first to come to one's mind is Monte Cook Games'
 https://cypher-system.com/what-is-the-cypher-system/[Cypher System]: it has a mechanical
-focus on discovery and exploration, and its flagship product, Numenera, revolves
+incentive for discovery and exploration, and its flagship product, Numenera, revolves
 exactly around “Exploring strange landscapes and discovering artifacts and technology,
 while avoiding the dangers of the environment” – but it’s clearly not the only 
 valid option. https://dungeon-world.com/[Dungeon World], with its "Play to find
