@@ -28,3 +28,16 @@ pygmentsCodefences = true
             source-highlighter="rouge"
             rouge-css="style"
             rouge-style="magritte"
+
+[security]
+	enableInlineShortcodes = false
+	[security.exec]
+		allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^asciidoctor$']
+		osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+	[security.funcs]
+		getenv = ['^HUGO_']
+	[security.http]
+		methods = ['(?i)GET|POST']
+		urls = ['.*']
+
+
