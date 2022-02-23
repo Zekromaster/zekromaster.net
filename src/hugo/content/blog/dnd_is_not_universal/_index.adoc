@@ -1,6 +1,6 @@
 ---
 title: "Why D&D 5th Edition doesn't work for every setting"
-description: "Or 'a rant turned series of eassys of the dangers of D&D as a universal roleplaying system and how I beg you to please play another RPG"
+description: "Or 'a rant turned series of eassys of the dangers of D&D as a universal roleplaying system and how I beg you to please play another RPG'"
 date: 2021-12-13T10:10:00+02:00
 tags: ["roleplaying-games", "dungeons-and-dragons", "magic-the-gathering"]
 ---

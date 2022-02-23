@@ -1,5 +1,6 @@
 ---
 title: "Part I: Zendikar"
+rsstitle: "D&D is not Universal Part I: Zendikar"
 description: "On how a setting inspired by D&D wouldn't actually work in the latest D&D edition."
 date: 2021-12-13T10:10:00+02:00
 draft: false
