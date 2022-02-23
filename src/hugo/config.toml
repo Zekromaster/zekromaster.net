@@ -1,6 +1,4 @@
-baseURL = "https://zekromaster.net"
 languageCode = "en-us"
-title = "Zekromaster.net"
 theme = "plain"
 
 pygmentsUseClasses = true
