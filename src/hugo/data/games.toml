@@ -4,6 +4,7 @@ data = [
   {name = "Crash Bandicoot N.Sane Trilogy - Crash Bandicoot", console = "PC", completion = "105%", proof = "nst1.png", startDate = "2019-10-12", endDate = "2020-08-12"},
   {name = "Crash Bandicoot N.Sane Trilogy - Crash Bandicoot 2: Cortex Strikes Back", console = "PC", completion = "102%", proof = "nst2.png", startDate = "2020-09-20", endDate = "2020-12-09"},
   {name = "Crash Bandicoot N.Sane Trilogy - Crash Bandicoot 3: Warped", console = "PC", completion = "108%", proof = "nst3.png", startDate = "2020-12-24", endDate = "2020-12-27"},
+  {name = "Crash Bandicoot: The Huge Adventure", console = "GBA", completion = "101%", proof = "cbxs.png", startDate = "2022-03-31", endDate = "2022-04-07"},
   {name = "Crash Nitro Kart", console = "PS2", completion = "101%", proof = "cnk.png", startDate = "2021-02-11", endDate = "2021-02-24"},
   {name = "Crash Team Racing", console = "PSX", completion = "101%", proof = "ctr.png", startDate = "2017-12-30", endDate = "2017-12-30"},
   {name = "Crash Twinsanity", console = "PS2", completion = "100%", proof = "ctw.png", startDate = "2017-12-11", endDate = "2017-12-24"},
