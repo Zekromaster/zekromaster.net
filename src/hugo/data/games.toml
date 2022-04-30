@@ -9,6 +9,7 @@ data = [
   {name = "Crash Bandicoot: The Huge Adventure", console = "GBA", completion = "101%", proof = "cbxs.png", startDate = "2022-03-31", endDate = "2022-04-07"},
   {name = "Crash Bandicoot: The Wrath of Cortex", console = "PS2", completion = "106%", proof = "cbtwoc.png", startDate = "2022-04-22", endDate = "2022-04-27"},
   {name = "Crash Nitro Kart", console = "PS2", completion = "101%", proof = "cnk.png", startDate = "2021-02-11", endDate = "2021-02-24"},
+  {name = "Crash Tag Team Racing", console = "GCN", completion = "100%", proof = "cttr.png", startDate = "2022-04-28", endDate = "2021-04-30"},
   {name = "Crash Team Racing", console = "PSX", completion = "101%", proof = "ctr.png", startDate = "2017-12-30", endDate = "2017-12-30"},
   {name = "Crash Twinsanity", console = "PS2", completion = "100%", proof = "ctw.png", startDate = "2017-12-11", endDate = "2017-12-24"},
   {name = "Disney•Pixar Cars", console = "PC", completion = "250 Trophies", proof = "cars.png", startDate = "2020-12-27", endDate = "2021-01-01"},
