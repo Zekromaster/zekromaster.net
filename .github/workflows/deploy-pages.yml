@@ -35,7 +35,6 @@ jobs:
 
       - name: Build
         run: hugo --minify
-        working-directory: ./src/hugo
         env:
           HUGO_BASEURL: "https://zekromaster.net"
           HUGO_TITLE: "zekromaster.net"
@@ -47,5 +46,5 @@ jobs:
         env:
           REPO: self
           BRANCH: pages
-          FOLDER: src/hugo/public
+          FOLDER: public
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
