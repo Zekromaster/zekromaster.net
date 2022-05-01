@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>web-development on zekromaster.net</title><link>https://zekromaster.net/tags/web-development/</link><description>Recent content in web-development on zekromaster.net</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>Zekromaster &lt;dev@zekromaster.net></managingEditor><webMaster>Zekromaster &lt;dev@zekromaster.net></webMaster><copyright>Zekromaster &lt;dev@zekromaster.net></copyright><lastBuildDate>Sun, 04 Apr 2021 17:38:36 +0200</lastBuildDate><atom:link href="https://zekromaster.net/tags/web-development/index.xml" rel="self" type="application/rss+xml"/><item><title> Why this site sucks</title><link>https://zekromaster.net/blog/why_this_site_sucks/</link><pubDate>Sun, 04 Apr 2021 17:38:36 +0200</pubDate><author>Zekromaster &lt;dev@zekromaster.net></author><guid>https://zekromaster.net/blog/why_this_site_sucks/</guid><description>&lt;div class="paragraph">
+&lt;p>&amp;#34;Zekromaster, why does this website suck&amp;#34; you tell me.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&amp;#34;Why aren’t you using all the thingamajigs and the funny doodads that modern
+web development gives us?&amp;#34;&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>And I hear you alright. We have modern CSS, and TypeScript building to
+JavaScript, and complex rube-goldberg machines that make writing an
+&amp;#34;Hello, World&amp;#34; something like this&lt;/p>
+&lt;/div>
+&lt;div class="listingblock">
+&lt;div class="content">
+&lt;pre class="rouge highlight">&lt;code data-lang="python"> import library;
+import another_library;
+import database;
+database.connect(
+library.getAWSLambda(&amp;#34;watchamacallit&amp;#34;)
+)
+world = database.get(
+&amp;#34;&amp;#34;&amp;#34;
+SELECT WORLD
+FROM WORLDS
+WHERE USER=&amp;#39;ME&amp;#39;
+&amp;#34;&amp;#34;&amp;#34;
+)
+world.push(
+another_library
+.deploy_anti_bobby_table_measures(
+0
+)
+)
+world.callPrintfAsAService(
+&amp;#34;Hello, %s&amp;#34;
+)&lt;/code>&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Yet, as you may have noticed from the syntax highlighting above, I’m actually
+using something developed after the Ides of March for my website.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>This website is made with Hugo, using
+&lt;a href="https://github.com/Zekromaster/HugoTheme-Plain">a theme I made myself called Plain&lt;/a>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>You see, I had a personal website multiple times in my life. It started as a
+Wordpress blog, made in one night and where I posted movie and videogame
+reviews. Then I started doing webdev, and the website became an horrible beast
+made by an high school student with too much time on their hands who built his
+own horrible CMS in Javascript running entirely on a directory full of &lt;code>.json&lt;/code>
+files.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Sometime around my second year of university (I do study Software Engineering) I
+realized I needed to simplify my website, and moved to Hugo. This didn’t last
+long, though it lead me to developing another Hugo theme,
+&lt;a href="https://github.com/Zekromaster/HugoTheme-BackToThe90s">Back to the 90s&lt;/a>.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>I later went back to using the &amp;#34;coolest&amp;#34; things around to make my website, and
+started making something with Strapi and Angular. I have been websiteless for
+months now, waiting to make the &amp;#34;perfect Angular frontend for my personal API&amp;#34;.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>And then, it hit me, right in the stomach. &lt;em>Why am I doing all this?&lt;/em>. I
+literally only want to host a personal blog, and a list of games I want to brag
+about completing 100%.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>I threw away all the fancy CSS, and the animations, and the GUI work I did. I
+don’t &lt;em>need&lt;/em> all that, I need to display content, and you know what’s made to
+display content? Static HTML. Static, minimal, almost-css-less HTML. And it
+comes with the plus of being free on DigitalOcean.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Now, that isn’t to say I’m not gonna use anything &amp;#34;too fancy&amp;#34; on my website. I
+already have plans to add some &amp;#34;progressive enhancement&amp;#34; features, first of all
+a searchbar - but fancy features are &lt;em>not&lt;/em> the focus of this website. The focus
+of this website is being a personal blog. And it’s working well as a personal
+blog as it is.&lt;/p>
+&lt;/div></description></item></channel></rss>

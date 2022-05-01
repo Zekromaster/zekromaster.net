@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>zekromaster.net</title><link>https://zekromaster.net/</link><description>Recent content on zekromaster.net</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>Zekromaster &lt;dev@zekromaster.net></managingEditor><webMaster>Zekromaster &lt;dev@zekromaster.net></webMaster><copyright>Zekromaster &lt;dev@zekromaster.net></copyright><lastBuildDate>Mon, 13 Dec 2021 10:10:00 +0200</lastBuildDate><atom:link href="https://zekromaster.net/index.xml" rel="self" type="application/rss+xml"/><item><title> D&amp;D is not Universal Part I: Zendikar</title><link>https://zekromaster.net/blog/dnd_is_not_universal/zendikar/</link><pubDate>Mon, 13 Dec 2021 10:10:00 +0200</pubDate><author>Zekromaster &lt;dev@zekromaster.net></author><guid>https://zekromaster.net/blog/dnd_is_not_universal/zendikar/</guid><description>&lt;div class="paragraph">
+&lt;p>The worst thing to come out of WotC owning both the biggest Trading Card Game on
+the market and the biggest Tabletop RPG on the shelves is the fact that in an effort
+at cross promoting, there now is a bunch of official D&amp;amp;D sourcebooks adapting settings
+from Magic the Gathering that have nothing to do with D&amp;amp;D and that would be best
+served by other systems, in the form of &amp;#34;Plane Shift&amp;#34;, a bunch of supplements each
+focusing on a different Magic the Gathering plane.&lt;/p>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_whats_wrong_with_plane_shift_itself">What’s wrong with Plane Shift itself?&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>Let’s start from the fact that these are NOT, and I repeat, NOT meant to be a way
+to fulfill the fantasy at the basis of MtG itself – you’re NOT meant to play a Planeswalker
+through these supplements. They are supplements to play a campaign or short adventure
+on MtG planes without any interference from the main MtG plot and no signs of what
+makes Magic the Gathering what it is.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>On the mechanics side, not even basic hacks that have been commonplace in the “Playing
+MtG in D&amp;amp;D” homebrew scene like using colour as alignment are introduced, presumably
+to guarantee compatibility with everything else WotC publishes, as if people buying
+a book should mean they get to use all of its content at every occasion without
+selection for mechanical or thematic reasons.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>I’ll avoid talking at length about the fact that the Vancian magic system makes
+no sense for MtG, for we already established that these supplements are meant to
+play characters from the plane itself and not planeswalkers, and I also don’t believe
+mechanics necessarily need to ever perfectly simulate what happens in the fiction.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_whats_wrong_with_plane_shift_zendikar">What’s wrong with &lt;a href="https://media.wizards.com/2016/downloads/magic/Plane%20Shift%20Zendikar.pdf">Plane Shift: Zendikar&lt;/a>?&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>This one is interesting. First of all, Zendikar was pitched as the “Adventure Plane”
+back in the days of the first Zendikar block, and was meant to be inspired exactly
+by the kind of fantasy experience that D&amp;amp;D (and other “Dungeon Fantasy” RPGs) delivered
+at the time. The kick was, obviously, the introduction of Cosmic Horror elements
+in the form of the reawakening of the lovecraftian creatures known as the Eldrazi
+and the ensuing battle against them led by powerful planeswalkers.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>So, what’s wrong with this one? In principle, nothing. This looks like exactly the
+kind of story you’d want to tell with D&amp;amp;D, a world of adventure filled with terrible
+monsters and unknowable enemies. Except… it’s not.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>You see, according to 5e’s own core rulebook, the game relies on three pillars:
+combat, social interaction, and exploration. It covers combat extensively, and social
+interaction can be easily reduced to freeform improvisation with occasional usage
+of the Skill system, but exploration has zero mechanical support. There’s no mechanics
+relating to discovery, no mechanical incentives to discover stuff. In a sense, if
+you’re looking for a game based around exploration with occasional combat and not
+much formalized social interaction, you’re almost better off playing with no “system”
+at all and resolving conflicts with compared d6 rolls. And, guess what, Zendikar
+is a setting meant for exploration with occasional combat and not much formalized
+social interaction.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>In a sense, this is actually one of those situations where 5e streamlined the core
+experience out of itself. In a ploy to simplify rules and remove formalized procedures
+to make the game easier to grok, they ended up creating a system that relies very
+much on rules and game structures to deliver its core experience, but also has no
+way to model what it claims is a core part of the experience through those same
+rules.There’s effectively no difference between using 5e or any other non-exploration-focused system to play a Zendikar campaign.&lt;/p>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_does_this_make_dd_5e_completely_useless_for_playing_zendikar_campaigns">Does this make D&amp;amp;D 5e completely useless for playing Zendikar campaigns?&lt;/h3>
+&lt;div class="paragraph">
+&lt;p>No, it doesn’t. At least, not necessarily.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>You can play campaigns that revolve around fighting the Eldrazi, or focused on the
+more combat side by doing invidual, mapped-out dungeon crawls. But the core premise
+of Zendikar is NOT “uberpowerful denizens of the plane defeating the Eldrazi”, it’s
+“Exploring strange landscapes and discovering artifacts and technology, while avoiding
+the dangers of both the environment and the Eldrazi”, and at this, D&amp;amp;D fails spectacularly, by virtue of being a “proactive” system where the main narrative revolves around “punching” any and all problems that may arise.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_what_systems_wouldve_actually_delivered_the_experience_zendikar_goes_for">What systems would’ve actually delivered the experience Zendikar goes for?&lt;/h3>
+&lt;div class="paragraph">
+&lt;p>The first to come to one’s mind is Monte Cook Games&amp;#39;
+&lt;a href="https://cypher-system.com/what-is-the-cypher-system/">Cypher System&lt;/a>: it has a mechanical
+incentive for discovery and exploration, and its flagship product, Numenera, revolves
+exactly around “Exploring strange landscapes and discovering artifacts and technology,
+while avoiding the dangers of the environment” – but it’s clearly not the only
+valid option. &lt;a href="https://dungeon-world.com/">Dungeon World&lt;/a>, with its &amp;#34;Play to find
+out what happens&amp;#34; approach, the narrative-focused mechanics typical of PbtA, and its low-prep,
+high-improvisation mindset, is also a good candidate for modeling the world of discovery
+and exploration of Zendikar while still remaining attached to the &amp;#34;Dungeon Fantasy&amp;#34;
+aesthetics and narratives Zendikar itself is inspired from.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>For campaigns that want to focus more on the &amp;#34;dungeoneering in a deadly world&amp;#34;,
+it seems weird to not opt for an OSR game like
+&lt;a href="https://www.froggodgames.com/product/swords-wizardry-complete-rulebook">Swords and Wizardry&lt;/a>,
+or even just older editions of D&amp;amp;D that are meant to focus on exploration and dungeon
+crawling.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title> Why this site sucks</title><link>https://zekromaster.net/blog/why_this_site_sucks/</link><pubDate>Sun, 04 Apr 2021 17:38:36 +0200</pubDate><author>Zekromaster &lt;dev@zekromaster.net></author><guid>https://zekromaster.net/blog/why_this_site_sucks/</guid><description>&lt;div class="paragraph">
+&lt;p>&amp;#34;Zekromaster, why does this website suck&amp;#34; you tell me.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&amp;#34;Why aren’t you using all the thingamajigs and the funny doodads that modern
+web development gives us?&amp;#34;&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>And I hear you alright. We have modern CSS, and TypeScript building to
+JavaScript, and complex rube-goldberg machines that make writing an
+&amp;#34;Hello, World&amp;#34; something like this&lt;/p>
+&lt;/div>
+&lt;div class="listingblock">
+&lt;div class="content">
+&lt;pre class="rouge highlight">&lt;code data-lang="python"> import library;
+import another_library;
+import database;
+database.connect(
+library.getAWSLambda(&amp;#34;watchamacallit&amp;#34;)
+)
+world = database.get(
+&amp;#34;&amp;#34;&amp;#34;
+SELECT WORLD
+FROM WORLDS
+WHERE USER=&amp;#39;ME&amp;#39;
+&amp;#34;&amp;#34;&amp;#34;
+)
+world.push(
+another_library
+.deploy_anti_bobby_table_measures(
+0
+)
+)
+world.callPrintfAsAService(
+&amp;#34;Hello, %s&amp;#34;
+)&lt;/code>&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Yet, as you may have noticed from the syntax highlighting above, I’m actually
+using something developed after the Ides of March for my website.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>This website is made with Hugo, using
+&lt;a href="https://github.com/Zekromaster/HugoTheme-Plain">a theme I made myself called Plain&lt;/a>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>You see, I had a personal website multiple times in my life. It started as a
+Wordpress blog, made in one night and where I posted movie and videogame
+reviews. Then I started doing webdev, and the website became an horrible beast
+made by an high school student with too much time on their hands who built his
+own horrible CMS in Javascript running entirely on a directory full of &lt;code>.json&lt;/code>
+files.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Sometime around my second year of university (I do study Software Engineering) I
+realized I needed to simplify my website, and moved to Hugo. This didn’t last
+long, though it lead me to developing another Hugo theme,
+&lt;a href="https://github.com/Zekromaster/HugoTheme-BackToThe90s">Back to the 90s&lt;/a>.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>I later went back to using the &amp;#34;coolest&amp;#34; things around to make my website, and
+started making something with Strapi and Angular. I have been websiteless for
+months now, waiting to make the &amp;#34;perfect Angular frontend for my personal API&amp;#34;.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>And then, it hit me, right in the stomach. &lt;em>Why am I doing all this?&lt;/em>. I
+literally only want to host a personal blog, and a list of games I want to brag
+about completing 100%.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>I threw away all the fancy CSS, and the animations, and the GUI work I did. I
+don’t &lt;em>need&lt;/em> all that, I need to display content, and you know what’s made to
+display content? Static HTML. Static, minimal, almost-css-less HTML. And it
+comes with the plus of being free on DigitalOcean.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Now, that isn’t to say I’m not gonna use anything &amp;#34;too fancy&amp;#34; on my website. I
+already have plans to add some &amp;#34;progressive enhancement&amp;#34; features, first of all
+a searchbar - but fancy features are &lt;em>not&lt;/em> the focus of this website. The focus
+of this website is being a personal blog. And it’s working well as a personal
+blog as it is.&lt;/p>
+&lt;/div></description></item></channel></rss>
