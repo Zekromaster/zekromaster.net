@@ -1,0 +1,51 @@
+name: Generate Page
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+
+      - name: Setup Asciidoctor
+        uses: reitzig/actions-asciidoctor@v2.0.0
+        with:
+          version: 2.0.10
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.91.2'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+        working-directory: ./src/hugo
+        env:
+          HUGO_BASEURL: "https://zekromaster.net"
+          HUGO_TITLE: "zekromaster.net"
+          HUGO_AUTHOR_EMAIL: ${{ secrets.HUGO_AUTHOR_EMAIL }}
+          HUGO_AUTHOR_NAME: Zekromaster
+
+      - name: Deploy
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: pages
+          FOLDER: src/hugo/public
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
