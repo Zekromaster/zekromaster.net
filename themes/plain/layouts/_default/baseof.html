@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+<html lang="{{ .Site.LanguageCode }}">
+    {{- partial "head.html" . -}}
+    <body>
+        {{- partial "header.html" . -}}
+        <div id="main">
+            <hr />
+            {{- block "main" . }}{{- end }}
+            <hr />
+        </div>
+        {{- partial "footer.html" . -}}
+    </body>
+    <footer>
+    </footer>
+</html>

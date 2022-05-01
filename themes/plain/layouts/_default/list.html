@@ -1,0 +1,19 @@
+{{ define "main" }}
+	{{ with .Content }}
+		{{- . -}}
+		<hr />
+	{{ end }}
+    {{ range $i, $e := .Pages }}
+        {{ if $i }} <hr width="50%" /> {{ end }}
+        {{ with $e}}
+            <a href={{ .Permalink | absURL }}> <h4> {{ .Title }} </h4> </a>
+            <h5> {{ .Date.Format "2 of January, 2006" }} {{ with .Params.Author }} ~ {{ . }} {{ end }} </h5>
+			{{with .Params.tags}}
+				<p><b>Tags: </b>{{ delimit . ", " }}</p>
+			{{end}}
+            <p>
+                {{ .Description }}
+            </p>
+        {{ end }}
+    {{ end }}
+{{ end }}

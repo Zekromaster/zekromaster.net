@@ -1,0 +1,9 @@
+<h1 class="centered"> <a href={{ "/" | absURL }}> {{.Site.Title}} </a> </h1>
+<h2 class="centered"> {{ .Site.Params.subtitle }} </h2>
+<div class="centered">
+    <div class="navbar">
+        {{range .Site.Params.headerlinks}}
+            <a class="mainlink" href={{.url | absURL}}> {{.title}} </a>
+        {{end}}
+    </div>
+</div>
