@@ -117,28 +117,28 @@ JavaScript, and complex rube-goldberg machines that make writing an
 &lt;/div>
 &lt;div class="listingblock">
 &lt;div class="content">
-&lt;pre class="rouge highlight">&lt;code data-lang="python"> import library;
-import another_library;
-import database;
-database.connect(
-library.getAWSLambda(&amp;#34;watchamacallit&amp;#34;)
-)
-world = database.get(
-&amp;#34;&amp;#34;&amp;#34;
+&lt;pre class="rouge highlight" style="color: #000707;background-color: #f3ffff">&lt;code data-lang="python"> &lt;span style="color: #007500;font-weight: bold">import&lt;/span> &lt;span style="color: #920241;font-weight: bold">library&lt;/span>&lt;span style="color: #4c48fe">;&lt;/span>
+&lt;span style="color: #007500;font-weight: bold">import&lt;/span> &lt;span style="color: #920241;font-weight: bold">another_library&lt;/span>&lt;span style="color: #4c48fe">;&lt;/span>
+&lt;span style="color: #007500;font-weight: bold">import&lt;/span> &lt;span style="color: #920241;font-weight: bold">database&lt;/span>&lt;span style="color: #4c48fe">;&lt;/span>
+&lt;span style="color: #000707;background-color: #f3ffff">database&lt;/span>&lt;span style="color: #4c48fe">.&lt;/span>&lt;span style="color: #000707;background-color: #f3ffff">connect&lt;/span>&lt;span style="color: #4c48fe">(&lt;/span>
+&lt;span style="color: #000707;background-color: #f3ffff">library&lt;/span>&lt;span style="color: #4c48fe">.&lt;/span>&lt;span style="color: #000707;background-color: #f3ffff">getAWSLambda&lt;/span>&lt;span style="color: #4c48fe">(&lt;/span>&lt;span style="color: #7c0000;font-weight: bold">&amp;#34;watchamacallit&amp;#34;&lt;/span>&lt;span style="color: #4c48fe">)&lt;/span>
+&lt;span style="color: #4c48fe">)&lt;/span>
+&lt;span style="color: #000707;background-color: #f3ffff">world&lt;/span> &lt;span style="color: #4c48fe;font-weight: bold">=&lt;/span> &lt;span style="color: #000707;background-color: #f3ffff">database&lt;/span>&lt;span style="color: #4c48fe">.&lt;/span>&lt;span style="color: #000707;background-color: #f3ffff">get&lt;/span>&lt;span style="color: #4c48fe">(&lt;/span>
+&lt;span style="color: #7c0000;font-weight: bold">&amp;#34;&amp;#34;&amp;#34;
 SELECT WORLD
 FROM WORLDS
 WHERE USER=&amp;#39;ME&amp;#39;
-&amp;#34;&amp;#34;&amp;#34;
-)
-world.push(
-another_library
-.deploy_anti_bobby_table_measures(
-0
-)
-)
-world.callPrintfAsAService(
-&amp;#34;Hello, %s&amp;#34;
-)&lt;/code>&lt;/pre>
+&amp;#34;&amp;#34;&amp;#34;&lt;/span>
+&lt;span style="color: #4c48fe">)&lt;/span>
+&lt;span style="color: #000707;background-color: #f3ffff">world&lt;/span>&lt;span style="color: #4c48fe">.&lt;/span>&lt;span style="color: #000707;background-color: #f3ffff">push&lt;/span>&lt;span style="color: #4c48fe">(&lt;/span>
+&lt;span style="color: #000707;background-color: #f3ffff">another_library&lt;/span>
+&lt;span style="color: #4c48fe">.&lt;/span>&lt;span style="color: #000707;background-color: #f3ffff">deploy_anti_bobby_table_measures&lt;/span>&lt;span style="color: #4c48fe">(&lt;/span>
+&lt;span style="color: #007500;font-weight: bold">0&lt;/span>
+&lt;span style="color: #4c48fe">)&lt;/span>
+&lt;span style="color: #4c48fe">)&lt;/span>
+&lt;span style="color: #000707;background-color: #f3ffff">world&lt;/span>&lt;span style="color: #4c48fe">.&lt;/span>&lt;span style="color: #000707;background-color: #f3ffff">callPrintfAsAService&lt;/span>&lt;span style="color: #4c48fe">(&lt;/span>
+&lt;span style="color: #7c0000;font-weight: bold">&amp;#34;Hello, %s&amp;#34;&lt;/span>
+&lt;span style="color: #4c48fe">)&lt;/span>&lt;/code>&lt;/pre>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">

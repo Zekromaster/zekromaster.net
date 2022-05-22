@@ -37,32 +37,32 @@ JavaScript, and complex rube-goldberg machines that make writing an
 </div>
 <div class=listingblock>
 <div class=content>
-<pre class="rouge highlight"><code data-lang=python>    import library;
-    import another_library;
-    import database;
+<pre class="rouge highlight" style=color:#000707;background-color:#f3ffff><code data-lang=python>    <span style=color:#007500;font-weight:700>import</span> <span style=color:#920241;font-weight:700>library</span><span style=color:#4c48fe>;</span>
+    <span style=color:#007500;font-weight:700>import</span> <span style=color:#920241;font-weight:700>another_library</span><span style=color:#4c48fe>;</span>
+    <span style=color:#007500;font-weight:700>import</span> <span style=color:#920241;font-weight:700>database</span><span style=color:#4c48fe>;</span>
 
-    database.connect(
-        library.getAWSLambda(&#34;watchamacallit&#34;)
-    )
+    <span style=color:#000707;background-color:#f3ffff>database</span><span style=color:#4c48fe>.</span><span style=color:#000707;background-color:#f3ffff>connect</span><span style=color:#4c48fe>(</span>
+        <span style=color:#000707;background-color:#f3ffff>library</span><span style=color:#4c48fe>.</span><span style=color:#000707;background-color:#f3ffff>getAWSLambda</span><span style=color:#4c48fe>(</span><span style=color:#7c0000;font-weight:700>&#34;watchamacallit&#34;</span><span style=color:#4c48fe>)</span>
+    <span style=color:#4c48fe>)</span>
 
-    world = database.get(
-        &#34;&#34;&#34;
+    <span style=color:#000707;background-color:#f3ffff>world</span> <span style=color:#4c48fe;font-weight:700>=</span> <span style=color:#000707;background-color:#f3ffff>database</span><span style=color:#4c48fe>.</span><span style=color:#000707;background-color:#f3ffff>get</span><span style=color:#4c48fe>(</span>
+        <span style=color:#7c0000;font-weight:700>&#34;&#34;&#34;
             SELECT WORLD
             FROM WORLDS
             WHERE USER=&#39;ME&#39;
-        &#34;&#34;&#34;
-    )
+        &#34;&#34;&#34;</span>
+    <span style=color:#4c48fe>)</span>
 
-    world.push(
-        another_library
-        .deploy_anti_bobby_table_measures(
-            0
-        )
-    )
+    <span style=color:#000707;background-color:#f3ffff>world</span><span style=color:#4c48fe>.</span><span style=color:#000707;background-color:#f3ffff>push</span><span style=color:#4c48fe>(</span>
+        <span style=color:#000707;background-color:#f3ffff>another_library</span>
+        <span style=color:#4c48fe>.</span><span style=color:#000707;background-color:#f3ffff>deploy_anti_bobby_table_measures</span><span style=color:#4c48fe>(</span>
+            <span style=color:#007500;font-weight:700>0</span>
+        <span style=color:#4c48fe>)</span>
+    <span style=color:#4c48fe>)</span>
 
-    world.callPrintfAsAService(
-        &#34;Hello, %s&#34;
-    )</code></pre>
+    <span style=color:#000707;background-color:#f3ffff>world</span><span style=color:#4c48fe>.</span><span style=color:#000707;background-color:#f3ffff>callPrintfAsAService</span><span style=color:#4c48fe>(</span>
+        <span style=color:#7c0000;font-weight:700>&#34;Hello, %s&#34;</span>
+    <span style=color:#4c48fe>)</span></code></pre>
 </div>
 </div>
 <div class=paragraph>
