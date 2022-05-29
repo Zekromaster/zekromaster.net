@@ -14,3 +14,6 @@ This blog's main focus is the hobby side of my life - Videogames, Tabletop RPGs,
 engineering. I may consider making it tag-browseable in the future, for the sake of those poor employers who'd
 otheriwise have to sift through my D&D ramblings to find out why I considered this site relevant enough to my 
 professional life to put it on my resume, and for those who just want to read about a specific topic.
+
+[.text-center]
+https://ko-fi.com/zekromaster[You can buy me a coffee on ko-fi!]
