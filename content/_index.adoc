@@ -15,5 +15,5 @@ engineering. I may consider making it tag-browseable in the future, for the sake
 otheriwise have to sift through my D&D ramblings to find out why I considered this site relevant enough to my 
 professional life to put it on my resume, and for those who just want to read about a specific topic.
 
-[.text-center]
+[.centered]
 https://ko-fi.com/zekromaster[You can buy me a coffee on ko-fi!]
