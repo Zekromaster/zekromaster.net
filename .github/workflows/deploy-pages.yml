@@ -50,4 +50,5 @@ jobs:
           REPO: self
           BRANCH: pages
           FOLDER: public
+          CLEAR_GLOBS_FILE: .pagesdelete
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
