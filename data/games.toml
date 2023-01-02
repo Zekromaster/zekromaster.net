@@ -20,5 +20,6 @@ data = [
   {name = "Ratatouille", console = "PC", completion = "100%", proof = "ratatouille.png", startDate = "2020-12-09", endDate = "2020-12-24"},
   {name = "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated", console = "PC", completion = "100 Spatulas", proof = "bfbbr.png", startDate = "2021-01-01", endDate = "2021-01-18"},
   {name = "Spyro: Reignited Trilogy - Spyro 1", console = "PC", completion = "120%", proof = "spyror1.png", startDate = "2021-02-25", endDate = "2021-03-04"},
+  {name = "Spyro: Reignited Trilogy - Spyro 2: Ripto's Rage", console = "PC", completion = "100%", proof = "spyror2.png", startDate = "2022-12-29", endDate = "2023-01-02"},
   {name = "Turnip Boy Commits Tax Evasion", console = "PC", completion = "100%", proof = "turnipboy.png", startDate = "2021-07-01", endDate = "2021-07-01"}
 ]
