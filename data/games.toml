@@ -1,25 +1,208 @@
-data = [
-  {name = "Crash Bandicoot 1", console = "PSX", completion = "100%", proof = "cb1.png", startDate = "2018-09-16", endDate = "2018-09-26"},
-  {name = "Crash Bandicoot 2: Cortex Strikes Back", console = "PSX", completion = "100%", proof = "cb2.png", startDate = "2022-04-13", endDate = "2018-04-21"},
-  {name = "Crash Bandicoot 2: N-Tranced", console = "GBA", completion = "101%", proof = "cb2gba.png", startDate = "2022-04-08", endDate = "2022-04-13"},
-  {name = "Crash Bandicoot 3: Warped", console = "PSX", completion = "105%", proof = "cb3.png", startDate = "2017-08-13", endDate = "2017-08-25"},
-  {name = "Crash Bandicoot N.Sane Trilogy - Crash Bandicoot", console = "PC", completion = "105%", proof = "nst1.png", startDate = "2019-10-12", endDate = "2020-08-12"},
-  {name = "Crash Bandicoot N.Sane Trilogy - Crash Bandicoot 2: Cortex Strikes Back", console = "PC", completion = "102%", proof = "nst2.png", startDate = "2020-09-20", endDate = "2020-12-09"},
-  {name = "Crash Bandicoot N.Sane Trilogy - Crash Bandicoot 3: Warped", console = "PC", completion = "108%", proof = "nst3.png", startDate = "2020-12-24", endDate = "2020-12-27"},
-  {name = "Crash Bandicoot: The Huge Adventure", console = "GBA", completion = "101%", proof = "cbxs.png", startDate = "2022-03-31", endDate = "2022-04-07"},
-  {name = "Crash Bandicoot: The Wrath of Cortex", console = "PS2", completion = "106%", proof = "cbtwoc.png", startDate = "2022-04-22", endDate = "2022-04-27"},
-  {name = "Crash Nitro Kart", console = "PS2", completion = "101%", proof = "cnk.png", startDate = "2021-02-11", endDate = "2021-02-24"},
-  {name = "Crash Tag Team Racing", console = "GCN", completion = "100%", proof = "cttr.png", startDate = "2022-04-28", endDate = "2021-04-30"},
-  {name = "Crash Team Racing", console = "PSX", completion = "101%", proof = "ctr.png", startDate = "2017-12-30", endDate = "2017-12-30"},
-  {name = "Crash Team Racing Nitro-Fueled", console = "NSW", completion = "101%", proof = "ctrnf.png", startDate = "2022-05-01", endDate = "2022-06-03"},
-  {name = "Crash Twinsanity", console = "PS2", completion = "100%", proof = "ctw.png", startDate = "2017-12-11", endDate = "2017-12-24"},
-  {name = "Disney•Pixar Cars", console = "PC", completion = "250 Trophies", proof = "cars.png", startDate = "2020-12-27", endDate = "2021-01-01"},
-  {name = "Donald Duck: Quack Attack?!", console = "PSX", completion = "112%", proof = "ddgq.png", startDate = "2021-10-25", endDate = "2021-10-27"},
-  {name = "Jak and Daxter: The Precursor Legacy", console = "PS2", completion = "100%", proof = "jnd.png", startDate = "2019-02-07", endDate = "2019-04-04"},
-  {name = "Kao the Kangaroo: Round 2", console = "PC", completion = "All Collectibles", proof = "kao2.mp4", startDate = "2021-01-18", endDate = "2021-01-23"},
-  {name = "Ratatouille", console = "PC", completion = "100%", proof = "ratatouille.png", startDate = "2020-12-09", endDate = "2020-12-24"},
-  {name = "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated", console = "PC", completion = "100 Spatulas", proof = "bfbbr.png", startDate = "2021-01-01", endDate = "2021-01-18"},
-  {name = "Spyro: Reignited Trilogy - Spyro 1", console = "PC", completion = "120%", proof = "spyror1.png", startDate = "2021-02-25", endDate = "2021-03-04"},
-  {name = "Spyro: Reignited Trilogy - Spyro 2: Ripto's Rage", console = "PC", completion = "100%", proof = "spyror2.png", startDate = "2022-12-29", endDate = "2023-01-02"},
-  {name = "Turnip Boy Commits Tax Evasion", console = "PC", completion = "100%", proof = "turnipboy.png", startDate = "2021-07-01", endDate = "2021-07-01"}
-]
+[[data]]
+name = "Crash Bandicoot 3: Warped"
+completion = "105%"
+start = "2017-08-13"
+end = "2017-08-25"
+platform = "PSX"
+proof = [ "crash-bandicoot-3-warped.png",]
+slug = "crash-bandicoot-3-warped"
+
+[[data]]
+name = "Crash Twinsanity"
+completion = "102%"
+start = "2017-12-11"
+end = "2017-12-24"
+platform = "PS2"
+proof = [ "crash-twinsanity.png",]
+slug = "crash-twinsanity"
+
+[[data]]
+name = "Crash Team Racing"
+completion = "101%"
+start = "2017-12-30"
+end = "2017-12-30"
+platform = "PSX"
+proof = [ "crash-team-racing.png",]
+slug = "crash-team-racing"
+
+[[data]]
+name = "Crash Bandicoot 2: Cortex Strikes Back"
+completion = "100%"
+start = "2022-04-13"
+end = "2018-04-21"
+platform = "PSX"
+proof = [ "crash-bandicoot-2-cortex-strikes-back.png",]
+slug = "crash-bandicoot-2-cortex-strikes-back"
+
+[[data]]
+name = "Crash Bandicoot 1"
+completion = "100%"
+start = "2018-09-16"
+end = "2018-09-26"
+platform = "PSX"
+proof = [ "crash-bandicoot-1.png",]
+slug = "crash-bandicoot-1"
+
+[[data]]
+name = "Jak and Daxter: The Precursor Legacy"
+completion = "100%"
+start = "2019-02-07"
+end = "2019-02-07"
+platform = "PS2"
+proof = [ "jak-and-daxter-the-precursor-legacy.png",]
+slug = "jak-and-daxter-the-precursor-legacy"
+
+[[data]]
+name = "Crash Bandicoot: N. Sane Trilogy - Crash Bandicoot"
+completion = "105%"
+start = "2019-10-12"
+end = "2020-08-12"
+platform = "PC"
+proof = [ "crash-bandicoot-n-sane-trilogy-crash-bandicoot.png",]
+slug = "crash-bandicoot-n-sane-trilogy-crash-bandicoot"
+
+[[data]]
+name = "Crash Bandicoot: N. Sane Trilogy - Crash Bandicoot 2: Cortex Strikes Back"
+completion = "102%"
+start = "2020-09-20"
+end = "2020-12-09"
+platform = "PC"
+proof = [ "crash-bandicoot-n-sane-trilogy-crash-bandicoot-2-cortex-strikes-back.png",]
+slug = "crash-bandicoot-n-sane-trilogy-crash-bandicoot-2-cortex-strikes-back"
+
+[[data]]
+name = "Ratatouille"
+completion = "100%"
+start = "2020-12-09"
+end = "2020-12-24"
+platform = "PC"
+proof = [ "ratatouille.png",]
+slug = "ratatouille"
+
+[[data]]
+name = "Crash Bandicoot: N. Sane Trilogy - Crash Bandicoot 3: Warped"
+completion = "108%"
+start = "2020-12-24"
+end = "2020-12-27"
+platform = "PC"
+proof = [ "crash-bandicoot-n-sane-trilogy-crash-bandicoot-3-warped.png",]
+slug = "crash-bandicoot-n-sane-trilogy-crash-bandicoot-3-warped"
+
+[[data]]
+name = "Disney•Pixar Cars"
+completion = "250 Trophies"
+start = "2020-12-27"
+end = "2021-01-01"
+platform = "PC"
+proof = [ "disney-pixar-cars.png",]
+slug = "disney-pixar-cars"
+
+[[data]]
+name = "Crash Bandicoot: The Huge Adventure"
+completion = "101%"
+start = "2020-12-27"
+end = "2021-01-01"
+platform = "GBA "
+proof = [ "crash-bandicoot-the-huge-adventure.png",]
+slug = "crash-bandicoot-the-huge-adventure"
+
+[[data]]
+name = "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated"
+completion = "100 Spatulas"
+start = "2021-01-01"
+end = "2021-01-18"
+platform = "PC"
+proof = [ "spongebob-squarepants-battle-for-bikini-bottom-rehydrated.png",]
+slug = "spongebob-squarepants-battle-for-bikini-bottom-rehydrated"
+
+[[data]]
+name = "Kao the Kangaroo: Round 2"
+completion = "All Collectibles"
+start = "2021-01-18"
+end = "2021-01-23"
+platform = "PC"
+proof = [ "kao-the-kangaroo-round-2.mp4",]
+slug = "kao-the-kangaroo-round-2"
+
+[[data]]
+name = "Crash Nitro Kart"
+completion = "101%"
+start = "2021-02-11"
+end = "2021-02-24"
+platform = "PS2"
+proof = [ "crash-nitro-kart.png",]
+slug = "crash-nitro-kart"
+
+[[data]]
+name = "Spyro: Reignited Trilogy - Spyro 1"
+completion = "120%"
+start = "2021-02-25"
+end = "2021-03-04"
+platform = "PC"
+proof = [ "spyro-reignited-trilogy-spyro-1.png",]
+slug = "spyro-reignited-trilogy-spyro-1"
+
+[[data]]
+name = "Turnip Boy Commits Tax Evasion"
+completion = "100%"
+start = "2021-07-01"
+end = "2021-07-01"
+platform = "PC"
+proof = [ "turnip-boy-commits-tax-evasion.png",]
+slug = "turnip-boy-commits-tax-evasion"
+
+[[data]]
+name = "Donald Duck: Quack Attack?!"
+completion = "112%"
+start = "2021-10-25"
+end = "2021-10-27"
+platform = "PSX"
+proof = [ "donald-duck-quack-attack.png",]
+slug = "donald-duck-quack-attack"
+
+[[data]]
+name = "Crash Bandicoot 2: N. Tranced"
+completion = "101%"
+start = "2022-04-08"
+end = "2022-04-13"
+platform = "GBA"
+proof = [ "crash-bandicoot-2-n-tranced.png",]
+slug = "crash-bandicoot-2-n-tranced"
+
+[[data]]
+name = "Crash Bandicoot: The Wrath of Cortex"
+completion = "106%"
+start = "2022-04-22"
+end = "2022-04-27"
+platform = "PS2"
+proof = [ "crash-bandicoot-the-wrath-of-cortex.png",]
+slug = "crash-bandicoot-the-wrath-of-cortex"
+
+[[data]]
+name = "Crash Tag Team Racing"
+completion = "100%"
+start = "2022-04-28"
+end = "2022-04-30"
+platform = "GCN"
+proof = [ "crash-tag-team-racing.png",]
+slug = "crash-tag-team-racing"
+
+[[data]]
+name = "Crash Team Racing: Nitro-Fueled"
+completion = "101%"
+start = "2022-05-01"
+end = "2022-06-03"
+platform = "NSW"
+proof = [ "crash-team-racing-nitro-fueled.png",]
+slug = "crash-team-racing-nitro-fueled"
+
+[[data]]
+name = "Spyro: Reignited Trilogy - Spyro 2: Ripto's Rage"
+completion = "100%"
+start = "2022-12-29"
+end = "2023-01-02"
+platform = "PC"
+proof = [ "spyro-reignited-trilogy-spyro-2-ripto-s-rage.png",]
+slug = "spyro-reignited-trilogy-spyro-2-ripto-s-rage"
+
+
