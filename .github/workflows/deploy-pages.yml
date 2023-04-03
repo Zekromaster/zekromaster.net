@@ -4,12 +4,12 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-20.04
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+    environment: github-pages
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -39,16 +39,25 @@ jobs:
       - name: Build
         run: hugo --minify
         env:
-          HUGO_BASEURL: "https://zekromaster.net"
-          HUGO_TITLE: "zekromaster.net"
-          HUGO_AUTHOR_EMAIL: ${{ secrets.HUGO_AUTHOR_EMAIL }}
-          HUGO_AUTHOR_NAME: Zekromaster
-
-      - name: Deploy
-        uses: s0/git-publish-subdir-action@develop
-        env:
-          REPO: self
-          BRANCH: pages
-          FOLDER: public
-          CLEAR_GLOBS_FILE: .pagesdelete
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          HUGO_BASEURL: ${{ vars.BASEURL }}
+          HUGO_TITLE: ${{ vars.TITLE }}
+          HUGO_AUTHOR_EMAIL: ${{ vars.EMAIL }}
+          HUGO_AUTHOR_NAME: ${{ vars.NAME }}
+          HUGO_ENVIRONMENT: production
+          HUGO_ENV: production
+          
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./public
+  
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
