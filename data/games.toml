@@ -1,29 +1,11 @@
 [[data]]
-name = "Crash Bandicoot 3: Warped"
-completion = "105%"
-start = "2017-08-13"
-end = "2017-08-25"
+name = "Crash Bandicoot 1"
+completion = "100%"
+start = "2018-09-16"
+end = "2018-09-26"
 platform = "PSX"
-proof = [ "crash-bandicoot-3-warped.png",]
-slug = "crash-bandicoot-3-warped"
-
-[[data]]
-name = "Crash Twinsanity"
-completion = "102%"
-start = "2017-12-11"
-end = "2017-12-24"
-platform = "PS2"
-proof = [ "crash-twinsanity.png",]
-slug = "crash-twinsanity"
-
-[[data]]
-name = "Crash Team Racing"
-completion = "101%"
-start = "2017-12-30"
-end = "2017-12-30"
-platform = "PSX"
-proof = [ "crash-team-racing.png",]
-slug = "crash-team-racing"
+proof = [ "crash-bandicoot-1.png",]
+slug = "crash-bandicoot-1"
 
 [[data]]
 name = "Crash Bandicoot 2: Cortex Strikes Back"
@@ -35,22 +17,22 @@ proof = [ "crash-bandicoot-2-cortex-strikes-back.png",]
 slug = "crash-bandicoot-2-cortex-strikes-back"
 
 [[data]]
-name = "Crash Bandicoot 1"
-completion = "100%"
-start = "2018-09-16"
-end = "2018-09-26"
-platform = "PSX"
-proof = [ "crash-bandicoot-1.png",]
-slug = "crash-bandicoot-1"
+name = "Crash Bandicoot 2: N. Tranced"
+completion = "101%"
+start = "2022-04-08"
+end = "2022-04-13"
+platform = "GBA"
+proof = [ "crash-bandicoot-2-n-tranced.png",]
+slug = "crash-bandicoot-2-n-tranced"
 
 [[data]]
-name = "Jak and Daxter: The Precursor Legacy"
-completion = "100%"
-start = "2019-02-07"
-end = "2019-02-07"
-platform = "PS2"
-proof = [ "jak-and-daxter-the-precursor-legacy.png",]
-slug = "jak-and-daxter-the-precursor-legacy"
+name = "Crash Bandicoot 3: Warped"
+completion = "105%"
+start = "2017-08-13"
+end = "2017-08-25"
+platform = "PSX"
+proof = [ "crash-bandicoot-3-warped.png",]
+slug = "crash-bandicoot-3-warped"
 
 [[data]]
 name = "Crash Bandicoot: N. Sane Trilogy - Crash Bandicoot"
@@ -71,15 +53,6 @@ proof = [ "crash-bandicoot-n-sane-trilogy-crash-bandicoot-2-cortex-strikes-back.
 slug = "crash-bandicoot-n-sane-trilogy-crash-bandicoot-2-cortex-strikes-back"
 
 [[data]]
-name = "Ratatouille"
-completion = "100%"
-start = "2020-12-09"
-end = "2020-12-24"
-platform = "PC"
-proof = [ "ratatouille.png",]
-slug = "ratatouille"
-
-[[data]]
 name = "Crash Bandicoot: N. Sane Trilogy - Crash Bandicoot 3: Warped"
 completion = "108%"
 start = "2020-12-24"
@@ -87,15 +60,6 @@ end = "2020-12-27"
 platform = "PC"
 proof = [ "crash-bandicoot-n-sane-trilogy-crash-bandicoot-3-warped.png",]
 slug = "crash-bandicoot-n-sane-trilogy-crash-bandicoot-3-warped"
-
-[[data]]
-name = "Disney•Pixar Cars"
-completion = "250 Trophies"
-start = "2020-12-27"
-end = "2021-01-01"
-platform = "PC"
-proof = [ "disney-pixar-cars.png",]
-slug = "disney-pixar-cars"
 
 [[data]]
 name = "Crash Bandicoot: The Huge Adventure"
@@ -107,22 +71,13 @@ proof = [ "crash-bandicoot-the-huge-adventure.png",]
 slug = "crash-bandicoot-the-huge-adventure"
 
 [[data]]
-name = "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated"
-completion = "100 Spatulas"
-start = "2021-01-01"
-end = "2021-01-18"
-platform = "PC"
-proof = [ "spongebob-squarepants-battle-for-bikini-bottom-rehydrated.png",]
-slug = "spongebob-squarepants-battle-for-bikini-bottom-rehydrated"
-
-[[data]]
-name = "Kao the Kangaroo: Round 2"
-completion = "All Collectibles"
-start = "2021-01-18"
-end = "2021-01-23"
-platform = "PC"
-proof = [ "kao-the-kangaroo-round-2.mp4",]
-slug = "kao-the-kangaroo-round-2"
+name = "Crash Bandicoot: The Wrath of Cortex"
+completion = "106%"
+start = "2022-04-22"
+end = "2022-04-27"
+platform = "PS2"
+proof = [ "crash-bandicoot-the-wrath-of-cortex.png",]
+slug = "crash-bandicoot-the-wrath-of-cortex"
 
 [[data]]
 name = "Crash Nitro Kart"
@@ -134,51 +89,6 @@ proof = [ "crash-nitro-kart.png",]
 slug = "crash-nitro-kart"
 
 [[data]]
-name = "Spyro: Reignited Trilogy - Spyro 1"
-completion = "120%"
-start = "2021-02-25"
-end = "2021-03-04"
-platform = "PC"
-proof = [ "spyro-reignited-trilogy-spyro-1.png",]
-slug = "spyro-reignited-trilogy-spyro-1"
-
-[[data]]
-name = "Turnip Boy Commits Tax Evasion"
-completion = "100%"
-start = "2021-07-01"
-end = "2021-07-01"
-platform = "PC"
-proof = [ "turnip-boy-commits-tax-evasion.png",]
-slug = "turnip-boy-commits-tax-evasion"
-
-[[data]]
-name = "Donald Duck: Quack Attack?!"
-completion = "112%"
-start = "2021-10-25"
-end = "2021-10-27"
-platform = "PSX"
-proof = [ "donald-duck-quack-attack.png",]
-slug = "donald-duck-quack-attack"
-
-[[data]]
-name = "Crash Bandicoot 2: N. Tranced"
-completion = "101%"
-start = "2022-04-08"
-end = "2022-04-13"
-platform = "GBA"
-proof = [ "crash-bandicoot-2-n-tranced.png",]
-slug = "crash-bandicoot-2-n-tranced"
-
-[[data]]
-name = "Crash Bandicoot: The Wrath of Cortex"
-completion = "106%"
-start = "2022-04-22"
-end = "2022-04-27"
-platform = "PS2"
-proof = [ "crash-bandicoot-the-wrath-of-cortex.png",]
-slug = "crash-bandicoot-the-wrath-of-cortex"
-
-[[data]]
 name = "Crash Tag Team Racing"
 completion = "100%"
 start = "2022-04-28"
@@ -186,6 +96,15 @@ end = "2022-04-30"
 platform = "GCN"
 proof = [ "crash-tag-team-racing.png",]
 slug = "crash-tag-team-racing"
+
+[[data]]
+name = "Crash Team Racing"
+completion = "101%"
+start = "2017-12-30"
+end = "2017-12-30"
+platform = "PSX"
+proof = [ "crash-team-racing.png",]
+slug = "crash-team-racing"
 
 [[data]]
 name = "Crash Team Racing: Nitro-Fueled"
@@ -197,6 +116,78 @@ proof = [ "crash-team-racing-nitro-fueled.png",]
 slug = "crash-team-racing-nitro-fueled"
 
 [[data]]
+name = "Crash Twinsanity"
+completion = "102%"
+start = "2017-12-11"
+end = "2017-12-24"
+platform = "PS2"
+proof = [ "crash-twinsanity.png",]
+slug = "crash-twinsanity"
+
+[[data]]
+name = "Disney•Pixar Cars"
+completion = "250 Trophies"
+start = "2020-12-27"
+end = "2021-01-01"
+platform = "PC"
+proof = [ "disney-pixar-cars.png",]
+slug = "disney-pixar-cars"
+
+[[data]]
+name = "Donald Duck: Quack Attack?!"
+completion = "112%"
+start = "2021-10-25"
+end = "2021-10-27"
+platform = "PSX"
+proof = [ "donald-duck-quack-attack.png",]
+slug = "donald-duck-quack-attack"
+
+[[data]]
+name = "Jak and Daxter: The Precursor Legacy"
+completion = "100%"
+start = "2019-02-07"
+end = "2019-02-07"
+platform = "PS2"
+proof = [ "jak-and-daxter-the-precursor-legacy.png",]
+slug = "jak-and-daxter-the-precursor-legacy"
+
+[[data]]
+name = "Kao the Kangaroo: Round 2"
+completion = "All Collectibles"
+start = "2021-01-18"
+end = "2021-01-23"
+platform = "PC"
+proof = [ "kao-the-kangaroo-round-2.mp4",]
+slug = "kao-the-kangaroo-round-2"
+
+[[data]]
+name = "Ratatouille"
+completion = "100%"
+start = "2020-12-09"
+end = "2020-12-24"
+platform = "PC"
+proof = [ "ratatouille.png",]
+slug = "ratatouille"
+
+[[data]]
+name = "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated"
+completion = "100 Spatulas"
+start = "2021-01-01"
+end = "2021-01-18"
+platform = "PC"
+proof = [ "spongebob-squarepants-battle-for-bikini-bottom-rehydrated.png",]
+slug = "spongebob-squarepants-battle-for-bikini-bottom-rehydrated"
+
+[[data]]
+name = "Spyro: Reignited Trilogy - Spyro 1"
+completion = "120%"
+start = "2021-02-25"
+end = "2021-03-04"
+platform = "PC"
+proof = [ "spyro-reignited-trilogy-spyro-1.png",]
+slug = "spyro-reignited-trilogy-spyro-1"
+
+[[data]]
 name = "Spyro: Reignited Trilogy - Spyro 2: Ripto's Rage"
 completion = "100%"
 start = "2022-12-29"
@@ -204,5 +195,14 @@ end = "2023-01-02"
 platform = "PC"
 proof = [ "spyro-reignited-trilogy-spyro-2-ripto-s-rage.png",]
 slug = "spyro-reignited-trilogy-spyro-2-ripto-s-rage"
+
+[[data]]
+name = "Turnip Boy Commits Tax Evasion"
+completion = "100%"
+start = "2021-07-01"
+end = "2021-07-01"
+platform = "PC"
+proof = [ "turnip-boy-commits-tax-evasion.png",]
+slug = "turnip-boy-commits-tax-evasion"
 
 
