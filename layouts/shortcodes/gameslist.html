@@ -1,3 +1,3 @@
 {{ range $.Site.Data.games.data }}
-  | {{ .name }} | {{ .platform }} | {{ .completion }} | {{ delimit ( apply (apply (apply .proof "printf" "/games/proof/%s" ".") "absURL" ".") "printf" "%s[HERE,window=_blank]" "." ) " +\n" }}
+  | {{ .name }} | {{ .platform }} | {{ .completion }} | {{range $index, $file := .proof}} {{ printf "%s[(%d),window=_blank]" (absURL (printf "/games/proof/%s" $file)) (add $index 1) }} {{ end }}
 {{ end }}
