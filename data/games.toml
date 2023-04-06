@@ -3,7 +3,7 @@ name = "Crash Bandicoot 1"
 completion = "100%"
 start = "2018-09-16"
 end = "2018-09-26"
-platform = "PSX"
+platform = "Sony PlayStation"
 proof = [ "crash-bandicoot-1.png",]
 slug = "crash-bandicoot-1"
 
@@ -12,7 +12,7 @@ name = "Crash Bandicoot 2: Cortex Strikes Back"
 completion = "100%"
 start = "2022-04-13"
 end = "2018-04-21"
-platform = "PSX"
+platform = "Sony PlayStation"
 proof = [ "crash-bandicoot-2-cortex-strikes-back.png",]
 slug = "crash-bandicoot-2-cortex-strikes-back"
 
@@ -21,7 +21,7 @@ name = "Crash Bandicoot 2: N. Tranced"
 completion = "101%"
 start = "2022-04-08"
 end = "2022-04-13"
-platform = "GBA"
+platform = "Nintendo GameBoy Advance"
 proof = [ "crash-bandicoot-2-n-tranced.png",]
 slug = "crash-bandicoot-2-n-tranced"
 
@@ -30,7 +30,7 @@ name = "Crash Bandicoot 3: Warped"
 completion = "105%"
 start = "2017-08-13"
 end = "2017-08-25"
-platform = "PSX"
+platform = "Sony PlayStation"
 proof = [ "crash-bandicoot-3-warped.png",]
 slug = "crash-bandicoot-3-warped"
 
@@ -75,7 +75,7 @@ name = "Crash Bandicoot: The Wrath of Cortex"
 completion = "106%"
 start = "2022-04-22"
 end = "2022-04-27"
-platform = "PS2"
+platform = "Sony PlayStation 2"
 proof = [ "crash-bandicoot-the-wrath-of-cortex.png",]
 slug = "crash-bandicoot-the-wrath-of-cortex"
 
@@ -84,7 +84,7 @@ name = "Crash Nitro Kart"
 completion = "101%"
 start = "2021-02-11"
 end = "2021-02-24"
-platform = "PS2"
+platform = "Sony PlayStation 2"
 proof = [ "crash-nitro-kart.png",]
 slug = "crash-nitro-kart"
 
@@ -93,7 +93,7 @@ name = "Crash Tag Team Racing"
 completion = "100%"
 start = "2022-04-28"
 end = "2022-04-30"
-platform = "GCN"
+platform = "Nintendo GameCube"
 proof = [ "crash-tag-team-racing.png",]
 slug = "crash-tag-team-racing"
 
@@ -102,7 +102,7 @@ name = "Crash Team Racing"
 completion = "101%"
 start = "2017-12-30"
 end = "2017-12-30"
-platform = "PSX"
+platform = "Sony PlayStation"
 proof = [ "crash-team-racing.png",]
 slug = "crash-team-racing"
 
@@ -111,7 +111,7 @@ name = "Crash Team Racing: Nitro-Fueled"
 completion = "101%"
 start = "2022-05-01"
 end = "2022-06-03"
-platform = "NSW"
+platform = "Nintendo Switch"
 proof = [ "crash-team-racing-nitro-fueled.png",]
 slug = "crash-team-racing-nitro-fueled"
 
@@ -120,7 +120,7 @@ name = "Crash Twinsanity"
 completion = "102%"
 start = "2017-12-11"
 end = "2017-12-24"
-platform = "PS2"
+platform = "Sony PlayStation 2"
 proof = [ "crash-twinsanity.png",]
 slug = "crash-twinsanity"
 
@@ -138,7 +138,7 @@ name = "Donald Duck: Quack Attack?!"
 completion = "112%"
 start = "2021-10-25"
 end = "2021-10-27"
-platform = "PSX"
+platform = "Sony PlayStation"
 proof = [ "donald-duck-quack-attack.png",]
 slug = "donald-duck-quack-attack"
 
@@ -147,7 +147,7 @@ name = "Jak and Daxter: The Precursor Legacy"
 completion = "100%"
 start = "2019-02-07"
 end = "2019-02-07"
-platform = "PS2"
+platform = "Sony PlayStation 2"
 proof = [ "jak-and-daxter-the-precursor-legacy.png",]
 slug = "jak-and-daxter-the-precursor-legacy"
 
@@ -168,6 +168,15 @@ end = "2020-12-24"
 platform = "PC"
 proof = [ "ratatouille.png",]
 slug = "ratatouille"
+
+[[data]]
+name = "Sonic 1 Forever"
+completion = "7 Emeralds All Characters"
+start = "2022-03-31"
+end = "2022-04-06"
+platform = "PC"
+proof = []
+slug = "sonic-1-forever"
 
 [[data]]
 name = "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated"
