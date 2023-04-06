@@ -175,7 +175,7 @@ completion = "7 Emeralds All Characters"
 start = "2022-03-31"
 end = "2022-04-06"
 platform = "PC"
-proof = []
+proof = [ "sonic-1-forever/amy-snt-knt.png", "sonic-1-forever/sonic-tails-knuckles.png",]
 slug = "sonic-1-forever"
 
 [[data]]
