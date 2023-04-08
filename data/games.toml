@@ -153,7 +153,7 @@ slug = "jak-and-daxter-the-precursor-legacy"
 
 [[data]]
 name = "Kao the Kangaroo: Round 2"
-completion = "All Collectibles"
+completion = "4325 Coins, 250 Crystals, 255 Stars"
 start = "2021-01-18"
 end = "2021-01-23"
 platform = "PC"
@@ -171,7 +171,7 @@ slug = "ratatouille"
 
 [[data]]
 name = "Sonic 1 Forever"
-completion = "7 Emeralds All Characters"
+completion = "7 Emeralds on All Characters"
 start = "2022-03-31"
 end = "2022-04-06"
 platform = "PC"
