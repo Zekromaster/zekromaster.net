@@ -1,11 +1,12 @@
 ---
-title: "Part I: Zendikar"
-rsstitle: "D&D is not Universal Part I: Zendikar"
+title: "Zendikar as an RPG Setting"
 description: "On how a setting inspired by D&D wouldn't actually work in the latest D&D edition."
 date: 2021-12-13T10:10:00+02:00
 draft: false
-tags: ["roleplaying-games", "dungeons-and-dragons", "magic-the-gathering",
-"why-dnd-5e-does-not-work-for-every-setting"]
+tags: 
+    - roleplaying-games
+aliases:
+    - /blog/dnd_is_not_universal/zendikar
 ---
 
 The worst thing to come out of WotC owning both the biggest Trading Card Game on
@@ -63,7 +64,8 @@ experience out of itself. In a ploy to simplify rules and remove formalized proc
 to make the game easier to grok, they ended up creating a system that relies very
 much on rules and game structures to deliver its core experience, but also has no
 way to model what it claims is a core part of the experience through those same
-rules.There’s effectively no difference between using 5e or any other non-exploration-focused system to play a Zendikar campaign.
+rules.There’s effectively no difference between using 5e or any other non-exploration-focused
+system to play a Zendikar campaign.
 
 === Does this make D&D 5e completely useless for playing Zendikar campaigns?
 No, it doesn’t. At least, not necessarily.
@@ -87,7 +89,7 @@ and exploration of Zendikar while still remaining attached to the "Dungeon Fanta
 aesthetics and narratives Zendikar itself is inspired from.
 
 For campaigns that want to focus more on the "dungeoneering in a deadly world",
-it seems weird to not opt for an OSR game like
+it seems weird to not opt for a retroclone like
 https://www.froggodgames.com/product/swords-wizardry-complete-rulebook[Swords and Wizardry],
-or even just older editions of D&D that are meant to focus on exploration and dungeon
+or even just outright using older editions of the game that are meant to focus on exploration and dungeon
 crawling.
