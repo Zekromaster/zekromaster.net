@@ -11,7 +11,7 @@ slug = "crash-bandicoot-1"
 name = "Crash Bandicoot 2: Cortex Strikes Back"
 completion = "100%"
 start = "2022-04-13"
-end = "2018-04-21"
+end = "2022-04-21"
 platform = "Sony PlayStation"
 proof = [ "crash-bandicoot-2-cortex-strikes-back.png",]
 slug = "crash-bandicoot-2-cortex-strikes-back"
@@ -100,7 +100,7 @@ slug = "crash-tag-team-racing"
 [[data]]
 name = "Crash Team Racing"
 completion = "101%"
-start = "2017-12-30"
+start = "2017-12-27"
 end = "2017-12-30"
 platform = "Sony PlayStation"
 proof = [ "crash-team-racing.png",]
@@ -175,7 +175,7 @@ completion = "7 Emeralds on All Characters"
 start = "2022-03-31"
 end = "2022-04-06"
 platform = "PC"
-proof = [ "sonic-1-forever/amy-snt-knt.png", "sonic-1-forever/sonic-tails-knuckles.png",]
+proof = [ "sonic-1-forever/sonic-tails-knuckles.png", "sonic-1-forever/amy-snt-knt.png",]
 slug = "sonic-1-forever"
 
 [[data]]
