@@ -214,4 +214,13 @@ platform = "PC"
 proof = [ "turnip-boy-commits-tax-evasion.png",]
 slug = "turnip-boy-commits-tax-evasion"
 
+[[data]]
+name = "Turnip Boy Robs a Bank"
+completion = "38 Tasks"
+start = "2023-01-19"
+end = "2023-02-26"
+platform = "PC"
+proof = [ "turnip-boy-robs-a-bank.png",]
+slug = "turnip-boy-robs-a-bank"
+
 
