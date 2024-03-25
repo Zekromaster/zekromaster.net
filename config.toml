@@ -13,7 +13,7 @@ pygmentsCodefences = true
     url = "/blog"
 
 [[params.headerLinks]]
-    title = "Games I Completed"
+    title = "Videogame Accomplishments"
     url = "/games"
 
 [[params.headerLinks]]

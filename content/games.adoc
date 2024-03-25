@@ -1,11 +1,17 @@
 ---
-title: Games I completed
+title: Videogame Accomplishments
 layout: staticpage
 ---
 
-This page exists to allow me to brag about games I completed Max%. 
+This page exists to allow me to brag about my videogame accomplishments.
 
-(It's also kinda neat from a technical standpoint)
+== Retroachievements
+
+My my https://retroachievements org/user/Zekromaster[Retroachievements user page] contains information about games I've played (and gained achievements in) in emulators supporting RetroAchievements, starting from March 2024.
+
+I have replayed some games explicitly to get achievements, so there is some overlap between this profile and the list below, and hopefully there will be more as I play and finish more games.
+
+== List of games I finished
 
 |===
 | Name | Console | Completion | Proof
